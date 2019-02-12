@@ -1,6 +1,5 @@
 <%@ page import="sample.HelloWorld" %>
 <%--
-  Created by IntelliJ IDEA.
   User: chamilad
   Date: 9/5/14
   Time: 6:59 AM

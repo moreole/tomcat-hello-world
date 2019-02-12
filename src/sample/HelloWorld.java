@@ -13,10 +13,6 @@ public class HelloWorld {
         return "Hello World Tomcat!!";
     }
     
-    public void masMierda() {
-    	System.out.println("mierda");
-    }
-    
     private void metodo2(int nada) {
     	System.out.println("proyecto 2");
     }

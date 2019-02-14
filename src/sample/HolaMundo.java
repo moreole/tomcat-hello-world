@@ -3,7 +3,7 @@ package sample;
 /**
  * Created by chamilad on 9/5/14.
  */
-public class HelloWorld {
+public class HolaMundo {
 	
 	private int dameUno() {
 		return 1;
